@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SSeed1
 - 👀 I’m interested in Web
 - 🌱 I’m currently learning Vue/Node.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Front-end and Back-end JavaScript tech
 - 📫 How to reach me tanasiuk.ahtiw@gmail.com
 
 <!---
