@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SSeed1
+- 👋 Hi, I’m @SSeed1(Vlad Tanasiuk)
 - 👀 I’m interested in Web
 - 🌱 I’m currently learning Vue/Node.js
 - 💞️ I’m looking to collaborate on Front-end and Back-end JavaScript tech
